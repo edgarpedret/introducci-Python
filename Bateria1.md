@@ -1,1 +1,0 @@
-#Bateria 1
