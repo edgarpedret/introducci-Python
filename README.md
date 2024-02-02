@@ -4,7 +4,7 @@ Benvinguts al meu repositori de Python
 
 # Programes en Python:
 
-- [Hello world](hello_world.py)
+- [Hello world!](hello_world.py)
 
 ## Bateria d'exercicis:
 
