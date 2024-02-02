@@ -1,4 +1,4 @@
-# introducci-Python
+# introduccio-Python
 
 Benvinguts al meu repositori de Python
 
