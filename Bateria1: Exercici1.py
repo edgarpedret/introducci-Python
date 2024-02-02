@@ -1,1 +1,1 @@
-print("Bateria 1:Exercici 1")
+print("Bateria 1:_Exercici 1")
