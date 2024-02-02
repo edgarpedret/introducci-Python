@@ -9,3 +9,4 @@ Benvinguts al meu repositori de Python
 ## Bateria d'exercicis:
 
 - [Bateria 1-1](bateria1-1.py)
+- [Bateria 1-2](Bateria1-2.py)
