@@ -8,4 +8,4 @@ Benvinguts al meu repositori de Python
 
 ## Bateria d'exercicis:
 
-- [Bateria 1](Bateria1:_Exercici1.py)
+- [Bateria1:_Exercici1](Bateria1:_Exercici1.py)
