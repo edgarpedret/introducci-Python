@@ -13,3 +13,5 @@ Benvinguts al meu repositori de Python
 - [Bateria 1-3](bateria1-3.py)
 - [Bateria 1-4](bateria1-4.py)
 - [Bateria 1-5](bateria1-5.py)
+
+### Bateria d'exercicis 2:
