@@ -1,1 +1,0 @@
-print("Bateria 1")
